@@ -95,13 +95,4 @@ Python 3.9+ · PyTorch 2.0+
 
 ## Citation
 
-If you use this work, please cite:
 
-```bibtex
-@article{faeid2025beliefmdp,
-  title   = {From Prognosis to Action: Risk-Calibrated Belief-State MDPs
-             with Temporal Attention for Predictive Maintenance},
-  author  = {Faeid, Whashak and Tahsin, Omer},
-  year    = {2025}
-}
-```
